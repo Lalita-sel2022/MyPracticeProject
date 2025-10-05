@@ -6,6 +6,8 @@ public class DemoClass {
 		
 		System.out.println("Hello Java");
 		System.out.println("Hello Lalita");
+		
+		System.out.println("Hii");
 
 	}
 
